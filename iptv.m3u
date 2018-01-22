@@ -1,0 +1,45 @@
+﻿#EXTM3U
+#EXTINF:-1,Звезда
+http://109.200.157.246:8000/play/a00o/index.m3u8
+#EXTINF:-1,ТВ Центр
+http://109.200.157.246:8000/play/a00h/index.m3u8
+#EXTINF:-1,Рен ТВ
+http://109.200.157.246:8000/play/a00i/index.m3u8
+#EXTINF:-1,СТС
+http://109.200.157.246:8000/play/a00k/index.m3u8
+#EXTINF:-1,Матч ТВ
+http://109.200.157.246:8000/play/a00a/index.m3u8
+#EXTINF:-1,Ваш успех
+http://109.200.157.246:8000/play/a01b/index.m3u8
+#EXTINF:-1,Animal Planet
+http://109.200.157.246:8000/play/a013/index.m3u8
+#EXTINF:-1,Крым 1
+http://109.200.157.246:8000/play/a00s/index.m3u8
+#EXTINF:-1,ТВ 3
+http://109.200.157.246:8000/play/a00m/index.m3u8
+#EXTINF:-1,ТНТ
+http://109.200.157.246:8000/play/a00q/index.m3u8
+#EXTINF:-1,Россия 1
+http://109.200.157.246:8000/play/a002/index.m3u8
+#EXTINF:-1,Карусель
+http://109.200.157.246:8000/play/a00f/index.m3u8
+#EXTINF:-1,НТВ
+http://109.200.157.246:8000/play/a00b/index.m3u8
+#EXTINF:-1,Первый канал
+http://109.200.157.246:8000/play/a008/index.m3u8
+#EXTINF:-1,Мир
+http://109.200.157.246:8000/play/a00p/index.m3u8
+#EXTINF:-1,Муз ТВ
+http://109.200.157.246:8000/play/a00r/index.m3u8
+#EXTINF:-1,Крым 24
+http://109.200.157.246:8000/play/a00u/index.m3u8
+#EXTINF:-1,Россия К
+http://109.200.157.246:8000/play/a00d/index.m3u8
+#EXTINF:-1,ОТР
+http://109.200.157.246:8000/play/a00g/index.m3u8
+#EXTINF:-1,Пятница
+http://109.200.157.246:8000/play/a00n/index.m3u8
+#EXTINF:-1,Домашний
+http://109.200.157.246:8000/play/a00l/index.m3u8
+#EXTINF:-1,Россия 24
+http://109.200.157.246:8000/play/a00e/index.m3u8
