@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <playlist_name><![CDATA[test]]></playlist_name> 
+    <channel>
+        <title><![CDATA[Детские ТВ каналы]]></title>
+        <logo><![CDATA[http://167127.selcdn.com/ult/deti/children/children_logo/childrenTV.png]]></logo>
+        <description><![CDATA[<h4>22.11.2016 - обновлено.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum<br><center><h2><img src="http://167127.selcdn.com/ult/deti/children/children_logo/childrenTV_big.png" height='100' width='100'></center><br><center><h3>Телевизионные каналы для детей , мам и бабушек.<br>..................................................]]></description>
+        <playlist_url><![CDATA[http://167127.selcdn.com/ult/deti/childrenTV/childrenTV.xml]]></playlist_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Мультфильмы]]></title>
+        <logo><![CDATA[http://167127.selcdn.com/ult/deti/children/children_logo/multfim.png]]></logo>
+        <description><![CDATA[<h4>07.03.2017 - пополнение.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum<br><center><h2><img src="http://167127.selcdn.com/ult/deti/children/children_logo/multfim_big.png" height='230' width='345'></center><br><center><h3>Детские мультфильмы.<br>..................................................]]></description>
+        <playlist_url><![CDATA[http://167127.selcdn.com/ult/deti/multfilm/multfilm.xml]]></playlist_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Мультсериалы]]></title>
+        <logo><![CDATA[http://167127.selcdn.com/ult/deti/children/children_logo/multserial.png]]></logo>
+        <description><![CDATA[<h4>10.07.2017 - пополнение.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum/<br><center><h2><img src="http://167127.selcdn.com/ult/deti/children/children_logo/multserial_big.png" height='230' width='345'></center><br><center><h3>Детские мультсериалы.<br>..................................................]]></description>
+        <playlist_url><![CDATA[http://167127.selcdn.com/ult/deti/multserial/0_multserial.xml]]></playlist_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Фильмы и сказки]]></title>
+        <logo><![CDATA[http://167127.selcdn.com/ult/deti/children/children_logo/filmandskazki.png]]></logo>
+        <description><![CDATA[<h4>24.04.2017 - пополнение.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum<br><center><h2><img src="http://167127.selcdn.com/ult/deti/children/children_logo/filmandskazki_big.png" height='230' width='345'></center><br><center><h3>Фильмы и сказки для детей.<br>..................................................]]></description>
+        <playlist_url><![CDATA[http://167127.selcdn.ru/ult/deti/filmandskazki/filmandskazki.xml]]></playlist_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Спокойной ночи, малыши!]]></title>
+        <logo><![CDATA[http://167127.selcdn.ru/ult/deti/goodnight/goodnight.png]]></logo>
+        <description><![CDATA[<h4>14.11.2016 - пополнение.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum<br><center><h2><img src="http://167127.selcdn.ru/ult/deti/goodnight/goodnight_big.png" height='230' width='345'></center><br><center><h3>Спокойной ночи малыши<br>..................................................]]></description>
+        <playlist_url><![CDATA[http://167127.selcdn.ru/ult/deti/goodnight/goodnight.xml]]></playlist_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Уроки тётушки Совы]]></title>
+        <logo><![CDATA[http://167127.selcdn.ru/ult/deti/Уроки_совы/sova.png]]></logo> 
+        <description><![CDATA[<h4>10.01.2017 - пополнение.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum<br><br><center><img src="http://167127.selcdn.ru/ult/deti/Уроки_совы/sova_big.png" height='230' width='345'></center><br><center><h3>Уроки тётушки Совы<br>..................................................]]></description>
+        <playlist_url><![CDATA[http://167127.selcdn.ru/ult/deti/Уроки_совы/0_Уроки_совы.xml]]></playlist_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Ералаш]]></title>
+        <logo><![CDATA[http://167127.selcdn.com/ult/deti/children/children_logo/eralash.png]]></logo> 
+        <description><![CDATA[<h4>27.08.2015 - пополнение.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum<br><center><h2><img src="http://167127.selcdn.com/ult/deti/children/children_logo/eralash_big.png" height='230' width='345'></center><br><center><h3>Ералаш - детский юмористический киножурнал, выпускающийся с 1975 года сначала в кинотеатрах, а потом на телевидении. Художественный руководитель журнала  Борис Грачевский<br>..................................................]]></description>
+        <playlist_url><![CDATA[http://167127.selcdn.com/ult/deti/eralash/eralash.xml]]></playlist_url>
+    </channel>
+</items>
