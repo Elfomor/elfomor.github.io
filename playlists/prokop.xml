@@ -3,6 +3,6 @@
     <playlist_name><![CDATA[prokop]]></playlist_name>
     <channel>
         <title><![CDATA[Прокопено]]></title>
-        <stream_url><![CDATA[https://elfomor.github.io/playlists/ter_zabl.xml]]></stream_url>
+        <playlist_url><![CDATA[https://elfomor.github.io/playlists/ter_zabl.xml]]></playlist_url>
     </channel>
 </items>
