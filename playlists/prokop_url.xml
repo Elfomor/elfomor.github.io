@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
     <playlist_name><![CDATA[prokop_strim]]></playlist_name>
-    <logo><![CDATA[http://167127.selcdn.com/ult/deti/childrenTV/logo_childrentv/Детский.png]]></logo>
     <channel>
+        <logo><![CDATA[http://167127.selcdn.com/ult/deti/childrenTV/logo_childrentv/Детский.png]]></logo>
         <title><![CDATA[Самые шокирующие гипотезы с Игорем Прокопенко. Выпуск от 12.02.2018. Принцесса Рейха!(HD)]]></title>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=SBknM0zzaqk]]></stream_url>
     </channel>
