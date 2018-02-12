@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
     <playlist_name><![CDATA[prokop_strim]]></playlist_name>
-    <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
     <channel>
         <title><![CDATA[Самые шокирующие гипотезы с Игорем Прокопенко. Выпуск от 12.02.2018. Принцесса Рейха!(HD)]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=SBknM0zzaqk]]></stream_url>
     </channel>
     <channel>
         <title><![CDATA[Территория заблуждений с Игорем Прокопенко. Выпуск от 24.01.2018]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=g1Y8zpUZCj0]]></stream_url>
     </channel>
     <channel>
         <title><![CDATA[Территория заблуждений с Игорем Прокопенко. Выпуск от 20.01.2018]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=pBDKrKQS9Jg]]></stream_url>
     </channel>
     <channel>
         <title><![CDATA[Территория заблуждений с Игорем Прокопенко. Выпуск от 19.01.2018]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=zIAwaI1Rfu4]]></stream_url>
     </channel>
     <channel>
         <title><![CDATA[Территория заблуждений с Игорем Прокопенко. Выпуск от 18.01.2018]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=Fjn90Ev_ZHw]]></stream_url>
     </channel>
     <channel>
         <title><![CDATA[Территория заблуждений с Игорем Прокопенко. Выпуск от 12.01.2018]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=w7n6JshE9AE]]></stream_url>
     </channel>
     <channel>
         <title><![CDATA[Территория заблуждений с Игорем Прокопенко. Выпуск от 23.10.2012]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=CGpbf5Kn_A0]]></stream_url>
     </channel>
 </items>
