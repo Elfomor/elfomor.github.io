@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <playlist_name><![CDATA[video_folder]]></playlist_name>
+    <channel>
+        <title><![CDATA[Прокопено]]></title>
+        <description><![CDATA[<img src="https://elfomor.github.io/playlists/pic/prokop.png" height='330' width='600'>]]></description>
+        <playlist_url><![CDATA[https://elfomor.github.io/playlists/prokop_url.xml]]></playlist_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Стивен Хокинг]]></title>
+        <description><![CDATA[<img src="https://elfomor.github.io/playlists/pic/stiv_s.jpg" height='330' width='600'>]]></description>
+        <playlist_url><![CDATA[https://elfomor.github.io/playlists/stiv_url.xml]]></playlist_url>
+    </channel>
+</items>
