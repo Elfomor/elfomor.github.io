@@ -52,9 +52,34 @@
         <stream_url><![CDATA[https://www.youtube.com/watch?v=w7n6JshE9AE]]></stream_url>
     </channel>
     <channel>
-        <title><![CDATA[23.10.2012]]></title>
+        <title><![CDATA[30.11.2017. Великие тайны под водой]]></title>
         <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=CGpbf5Kn_A0]]></stream_url>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=q-gbTCu3Rtw]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[30.11.2017. Приказано уничтожить!]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=7awaM3yT5HA]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[30.11.2017.У природы нет плохой погоды!]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=OVQXKLe6Gf4]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[16.11.2017(1)]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=izwfx3qZXqo]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[16.11.2017(2)]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=Zw7s6Hjf3M8]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[16.11.2017(3)]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=Whf0dgX_VQU]]></stream_url>
     </channel>
     <channel>
         <title><![CDATA[29.09.2017. От куда ты?]]></title>
@@ -80,35 +105,5 @@
         <title><![CDATA[29.09.2017. Древний человек]]></title>
         <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=4a98WNYvSpo]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[16.11.2017(1)]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=izwfx3qZXqo]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[16.11.2017(2)]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=Zw7s6Hjf3M8]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[16.11.2017(3)]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=Whf0dgX_VQU]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[30.11.2017. Великие тайны под водой]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=q-gbTCu3Rtw]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[30.11.2017. Приказано уничтожить!]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=7awaM3yT5HA]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[30.11.2017.У природы нет плохой погоды!]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=OVQXKLe6Gf4]]></stream_url>
     </channel>
 </items>
