@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-    <playlist_name><![CDATA[prokop_strim]]></playlist_name>
+    <playlist_name><![CDATA[prokop_url]]></playlist_name>
+    <channel>
+        <title><![CDATA[Шокирующие гипотезы. 17.02.2018  Марафон.]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=AHQkcMEOEsQ]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Территория заблуждений. 17.02.2018]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=HPPjZwji_hI]]></stream_url>
+    </channel>
     <channel>
         <title><![CDATA[Военная тайна. 17.02.2018]]></title>
         <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
