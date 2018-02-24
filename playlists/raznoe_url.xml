@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-    <playlist_name><![CDATA[stiv]]></playlist_name>
+    <playlist_name><![CDATA[raznoe]]></playlist_name>
     <channel>
-        <title><![CDATA[пока не удалили!!! ЗАПРЕЩЕН ВО ВСЕХ КИНОТЕАТРАХ МИРА Zeitgeist]]></title>
+        <title><![CDATA[Почему мы все работаем?]]></title>
         <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=1-dLuFzY7wk]]></stream_url>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=tw3iJjEUtqU]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Дух времени 3]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=0X-FG40_i9A]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Дух времени 2]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=0YgInGWc84w]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Дух времени 1]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=iGSMQ-Oqju4]]></stream_url>
     </channel>
     <channel>
         <title><![CDATA[Одни ли мы во вселенной? Теория Стивена Хокинга.]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/stiv.jpeg]]></logo_30x30>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=qdNjWSqDbhY]]></stream_url>
     </channel>
 </items>
