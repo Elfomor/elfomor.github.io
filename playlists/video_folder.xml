@@ -7,8 +7,7 @@
         <playlist_url><![CDATA[https://elfomor.github.io/playlists/prokop_url.xml]]></playlist_url>
     </channel>
     <channel>
-        <title><![CDATA[Стивен Хокинг]]></title>
-        <description><![CDATA[<img src="https://elfomor.github.io/playlists/pic/stiv_s.jpg" height='550' width='450'>]]></description>
-        <playlist_url><![CDATA[https://elfomor.github.io/playlists/stiv_url.xml]]></playlist_url>
+        <title><![CDATA[Разное]]></title>
+        <playlist_url><![CDATA[https://elfomor.github.io/playlists/raznoe_url.xml]]></playlist_url>
     </channel>
 </items>
