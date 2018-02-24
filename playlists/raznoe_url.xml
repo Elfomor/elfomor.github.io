@@ -2,6 +2,26 @@
 <items>
     <playlist_name><![CDATA[raznoe]]></playlist_name>
     <channel>
+        <title><![CDATA[Шокирующие артефакты.]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=_gFyYWNruD8]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Находка]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=UkSB7xy9dHc]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Американцы на луне.]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=wAGJQ_XvR0w]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Изделия непонятного предназначения.]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=qKPmrO4wXyo]]></stream_url>
+    </channel>
+    <channel>
         <title><![CDATA[Почему мы все работаем?]]></title>
         <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=tw3iJjEUtqU]]></stream_url>
