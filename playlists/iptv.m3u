@@ -47,3 +47,6 @@ http://109.200.157.246:8000/play/a00e/index.m3u8
 https://hls.goodgame.ru/hls/114023.m3u8
 #EXTINF:0,КиноЗаказ 2
 http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Мир HD
+
+udp://@239.1.3.7:1234
