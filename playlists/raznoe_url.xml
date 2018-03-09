@@ -2,6 +2,31 @@
 <items>
     <playlist_name><![CDATA[raznoe]]></playlist_name>
     <channel>
+        <title><![CDATA[Тесла Рассекреченные архивы 5-я серия]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=dbzXG4oM8V8]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Тесла Рассекреченные архивы 4-я серия]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=5-lprn6-EBs]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Тесла Рассекреченные архивы 3-я серия]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=Pq0cYrNFb0o]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Тесла Рассекреченные архивы 2-я серия]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=_uwMs5K0Rkc]]></stream_url>
+    </channel>
+    <channel>
+        <title><![CDATA[Тесла Рассекреченные архивы 1-я серия]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=qK2EpsX2uug]]></stream_url>
+    </channel>
+    <channel>
         <title><![CDATA[Шокирующие артефакты.]]></title>
         <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=_gFyYWNruD8]]></stream_url>
