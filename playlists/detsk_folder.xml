@@ -1,46 +1,1764 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml version="1.0" encoding="utf-8"?>
 <items>
-    <playlist_name><![CDATA[detsk_folder]]></playlist_name> 
-    <channel>
-        <title><![CDATA[Детские ТВ каналы]]></title>
-        <logo><![CDATA[http://167127.selcdn.com/ult/deti/children/children_logo/childrenTV.png]]></logo>
-        <description><![CDATA[<h4>22.11.2016 - обновлено.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum<br><center><h2><img src="http://167127.selcdn.com/ult/deti/children/children_logo/childrenTV_big.png" height='100' width='100'></center><br><center><h3>Телевизионные каналы для детей , мам и бабушек.<br>..................................................]]></description>
-        <playlist_url><![CDATA[http://167127.selcdn.com/ult/deti/childrenTV/childrenTV.xml]]></playlist_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Мультфильмы]]></title>
-        <logo><![CDATA[http://167127.selcdn.com/ult/deti/children/children_logo/multfim.png]]></logo>
-        <description><![CDATA[<h4>07.03.2017 - пополнение.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum<br><center><h2><img src="http://167127.selcdn.com/ult/deti/children/children_logo/multfim_big.png" height='230' width='345'></center><br><center><h3>Детские мультфильмы.<br>..................................................]]></description>
-        <playlist_url><![CDATA[http://167127.selcdn.com/ult/deti/multfilm/multfilm.xml]]></playlist_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Мультсериалы]]></title>
-        <logo><![CDATA[http://167127.selcdn.com/ult/deti/children/children_logo/multserial.png]]></logo>
-        <description><![CDATA[<h4>10.07.2017 - пополнение.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum/<br><center><h2><img src="http://167127.selcdn.com/ult/deti/children/children_logo/multserial_big.png" height='230' width='345'></center><br><center><h3>Детские мультсериалы.<br>..................................................]]></description>
-        <playlist_url><![CDATA[http://167127.selcdn.com/ult/deti/multserial/0_multserial.xml]]></playlist_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Фильмы и сказки]]></title>
-        <logo><![CDATA[http://167127.selcdn.com/ult/deti/children/children_logo/filmandskazki.png]]></logo>
-        <description><![CDATA[<h4>24.04.2017 - пополнение.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum<br><center><h2><img src="http://167127.selcdn.com/ult/deti/children/children_logo/filmandskazki_big.png" height='230' width='345'></center><br><center><h3>Фильмы и сказки для детей.<br>..................................................]]></description>
-        <playlist_url><![CDATA[http://167127.selcdn.ru/ult/deti/filmandskazki/filmandskazki.xml]]></playlist_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Спокойной ночи, малыши!]]></title>
-        <logo><![CDATA[http://167127.selcdn.ru/ult/deti/goodnight/goodnight.png]]></logo>
-        <description><![CDATA[<h4>14.11.2016 - пополнение.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum<br><center><h2><img src="http://167127.selcdn.ru/ult/deti/goodnight/goodnight_big.png" height='230' width='345'></center><br><center><h3>Спокойной ночи малыши<br>..................................................]]></description>
-        <playlist_url><![CDATA[http://167127.selcdn.ru/ult/deti/goodnight/goodnight.xml]]></playlist_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Уроки тётушки Совы]]></title>
-        <logo><![CDATA[http://167127.selcdn.ru/ult/deti/Уроки_совы/sova.png]]></logo> 
-        <description><![CDATA[<h4>10.01.2017 - пополнение.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum<br><br><center><img src="http://167127.selcdn.ru/ult/deti/Уроки_совы/sova_big.png" height='230' width='345'></center><br><center><h3>Уроки тётушки Совы<br>..................................................]]></description>
-        <playlist_url><![CDATA[http://167127.selcdn.ru/ult/deti/Уроки_совы/0_Уроки_совы.xml]]></playlist_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Ералаш]]></title>
-        <logo><![CDATA[http://167127.selcdn.com/ult/deti/children/children_logo/eralash.png]]></logo> 
-        <description><![CDATA[<h4>27.08.2015 - пополнение.<br><br>Сообщайте о не работающих фильмах в авторский раздел форума:<br>https://ottplayer.es/forum<br><center><h2><img src="http://167127.selcdn.com/ult/deti/children/children_logo/eralash_big.png" height='230' width='345'></center><br><center><h3>Ералаш - детский юмористический киножурнал, выпускающийся с 1975 года сначала в кинотеатрах, а потом на телевидении. Художественный руководитель журнала  Борис Грачевский<br>..................................................]]></description>
-        <playlist_url><![CDATA[http://167127.selcdn.com/ult/deti/eralash/eralash.xml]]></playlist_url>
-    </channel>
+<playlist_name><![CDATA[ Cinemas ]]></playlist_name>
+
+
+<channel>
+<title><![CDATA[101 далматинец]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_8129.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.81/kino/101_dalmatinec_1961.hd.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>101 далматинец</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_8129.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1961<br>
+<b>Рейтинг КиноПоиск:</b> 8.0<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Трогательная и невероятно интригующая история поиска и спасения щенят далматинских догов, которые были похищены у своих хозяев по приказу злобной фурии, Стервеллы Де Виль.
+Алчная модница задумала сшить себе пятнистый меховой наряд из шкурок бедных малюток. Однако животные, объединившись, ухитряются проучить ее.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[101 далматинец 2: Приключения Патча в Лондоне ]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_79428.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.81/kino/101_dalmatinec_2.hd.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>101 далматинец 2: Приключения Патча в Лондоне </h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_79428.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2003<br>
+<b>Рейтинг КиноПоиск:</b> 7.0<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, мюзикл, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Миллионерша Стервелла Де Виль, чья первая попытка похитить 101 далматинца и пошить из их шкурок роскошную шубу с треском провалилась, готовит новый дьявольский план по захвату славных песиков.
+Она потирает руки в ожидании легкого успеха, но на пути негодяйки встают храбрый щенок Патч и его новый друг Громобой — четвероногая звезда экрана! Улицы Лондона никогда еще не видели такой заварушки: двое отважных, смекалистых псов против коварной, мерзкой, но ужасно глупой Де Виль. Бедная Стервелла! Не видать ей пятнистой шубы как своих ушей!
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Аисты]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_894045.jpg</logo_30x30>
+<stream_url><![CDATA[http://212.113.38.99/realhls/mst5/fhd/Storks.2016.BDRip.1080p.mp4/index.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Аисты</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_894045.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 6.9<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения<br>
+<p><hr><b>Описание: </b>
+Аисты приносят детей… или, во всяком случае, раньше приносили. Теперь же они занимаются доставкой посылок для огромного сайта интернет-продаж. Джуниор, лучший аист в курьерской компании, должен пойти на повышение, но он случайно активирует машину для создания детей и получает очаровательную, но совершенно незапланированную девочку.
+Пытаясь доставить эту «посылку» до того, как босс узнает о произошедшем, Джуниор и его подруга Лютик, единственный человек на Горе Аистов, решаются на свою первую доставку ребёнка и отправляются в безумное и насыщенное удивительными открытиями приключение, благодаря которому многие семьи могут стать полными, а аисты — вернуться к своей истинной миссии на Земле.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Аладдин]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_2361.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.81/kino/Aladdin.hd.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Аладдин</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_2361.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1992<br>
+<b>Рейтинг КиноПоиск:</b> 8.1<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, мюзикл, фэнтези, мелодрама, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+В славном граде Аграба живёт Аладдин, веселый воришка с золотым сердцем. Живёт и не знает, что вскоре его ждёт величайшее приключение в жизни. Ведь только с его помощью чёрный маг Джафар может овладеть невероятным сокровищем — лампой, в которой заключён исполняющий желания могущественный Джинн. И только хитроумие, смекалка и доброта Аладдина и его друзей — обезьянки Абу, принцессы Жасмин и самого Джинна — способны помешать Джафару завладеть лампой и захватить власть над миром.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Аладдин 2: Возвращение Джафара]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_88628.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.81/kino/Aladdin_2.hd.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Аладдин 2: Возвращение Джафара</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_88628.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1994<br>
+<b>Рейтинг КиноПоиск:</b> 7.3<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, мюзикл, фэнтези, мелодрама, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Продолжение волшебной сказки об Аладдине. Вторая часть захватывающей трилогии о храбром уличном воришке начинается прямо там, где закончился первый мультфильм. Уже казалось бы, что черному чародею и новоявленному джинну Джафару суждено навеки остаться пленником волшебной лампы, — но ему удается освободиться! И на уме у коварного злодея лишь одно: он жаждет отомстить Аладдину.
+А тем временем, в Аграбе жизнь идет своим чередом. Неунывающий проказник Джинн вернулся из кругосветного путешествия, и рассказывает друзьям невероятные истории о своих приключениях. Но счастье продлится недолго. Нашим героям вновь придется встретиться с Джафаром лицом к лицу, и им пригодится вся их магия и отвага.
+Немало препятствий встанет на пути наших старых знакомых Аладдина, принцессы Джасмин, Абу, Коврика и (конечно же!) Джинна. Тут и сражения с ворами на летающих лошадях, и объятые пламенем клокочущие расщелины с лавой. Но отступить нельзя — ведь на кону судьба всего королевства!
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Аладдин и король разбойников]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_88706.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.81/kino/Aladdin_i_korol_razboynikov1.hd.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Аладдин и король разбойников</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_88706.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1996<br>
+<b>Рейтинг КиноПоиск:</b> 7.4<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, мюзикл, фэнтези, мелодрама, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Все жители Аграбы дружно готовятся к величайшему празднику — вот-вот состоится долгожданная свадьба Аладдина и принцессы Жасмин! Но сначала нашему герою придется остановить легендарную шайку сорока разбойников — ведь они хотят похитить свадебный подарок — всевидящего Оракула, с помощью которого злодеи хотят отыскать и прибрать к своим рукам все сокровища мира.
+Аладдину и его неразлучным друзьям — Жасмин, Абу, Коврику и весельчаку Джинну придется пережить немало приключений и найти выход из самых безвыходных ситуаций в погоне за Королем Разбойников и его удалой безжалостной шайкой.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Анастасия]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_2513.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Anastastiya.1997.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Анастасия</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_2513.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1997<br>
+<b>Рейтинг КиноПоиск:</b> 8.1<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, мюзикл, фэнтези, драма, приключения<br>
+<p><hr><b>Описание: </b>
+Анастасия — дочка последнего русского царя Николая, погубленного зловещим Распутиным. Ей удается спастись, добраться вместе с бабушкой до переполненного вокзала и… потеряться в толпе. Проходит десять лет. Анастасия стала взрослой красавицей и теперь хочет попасть в Париж. Сможет ли царевна осуществить задуманное? Ведь Распутин уже поднялся из своей могилы…
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Балерина]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_674249.jpg</logo_30x30>
+<stream_url><![CDATA[http://212.113.38.99/realhls/mst1/fhd/Ballerina.2016.x264.BDRip.1080p.BLUEBIRD.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Балерина</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_674249.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 6.8<br>
+<b>Страна:</b> 	Канада, Франция<br>
+<b>Жанр:</b> мультфильм, мюзикл, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+События развернутся вокруг маленькой сиротки, которая, следуя за мечтой стать балериной, приезжает в Париж в 1879 году.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Балто]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_7097.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.81/kino/Balto.hd.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Балто</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_7097.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1995<br>
+<b>Рейтинг КиноПоиск:</b> 8.3<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, драма, приключения, семейный, история<br>
+<p><hr><b>Описание: </b>
+Наполовину лайка, наполовину волк, Балто и сам не знает кто он такой на самом деле. Всеми гонимый бродяга в ледяной пустыне Аляски. Только его друзья русский полярный гусь Борис, медвежата Мак и Лак и красавица-лайка Дженна уверены, что хотя он и не такой как все, но в его груди бьется благородное сердце.
+Однажды случается несчастье. Эпидемия дифтерии охватила детей небольшого поселка, а свирепая вьюга сделала непроходимыми все дороги. Лишь собачья упряжка может преодолеть шестьсот миль через ослепляющий арктический шторм и привезти спасительное лекарство.
+Но собаки сбились с дороги где-то на замерзших просторах. Теперь только Балто может найти упряжку и спасти детей, а заодно стать героем и настоящей легендой!
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Балто 2: В поисках волка]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_79681.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.81/kino/Balto_2.hd.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Балто 2: В поисках волка</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_79681.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2002<br>
+<b>Рейтинг КиноПоиск:</b> 7.3<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, драма, приключения, семейный, история<br>
+<p><hr><b>Описание: </b>
+Продолжение приключений легендарного пса Балто. Случилось так, что Балто стал отцом. Он сделал все возможное, чтобы пристроить всех своих отпрысков в хорошие семьи. Но одна девочка, по имени Алу, вдруг почувствовала, что никогда не сможет быть похожей на своих братьев и сестер. После того, как она встретила в лесу охотника, Алу ощутила пробуждение загадочной природы волка внутри себя. Кто же она — волк или собака? Чтобы найти ответ на этот вопрос, Алу отправляется в путешествие по бескрайним просторам Аляски, в котором ее будет сопровождать любящий отец Балто.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Балто 3: Крылья перемен]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_86302.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.81/kino/Balto.hd.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Балто 3: Крылья перемен</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_86302.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2004<br>
+<b>Рейтинг КиноПоиск:</b> 7.3<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, драма, приключения, семейный, история<br>
+<p><hr><b>Описание: </b>
+Дело в том, что сани, которые служили универсальным средством передвижения на севере многие века, вытесняет странное крылатое устройство, которое легко может оставить упряжных собак «без работы». Ведь наступили новые времена! добраться до самых труднодоступных уголков на карте теперь можно при помощи самолёта.
+Однако это совсем не по вкусу нашему старому знакомому Балто! Неунывающий герой решает устроить гонку-соревнование между упряжкой бывалых псов и опытным летчиком по имени Дьюк. Кто быстрей доставит почту: собаки или одномоторный биплан?
+Ликующие псы добираются до финиша первыми: они смогли доказать свое превосходство над железной летающей птицей. Но Балто сразу понял: что-то случилось с Дюком и его самолетом! В компании с Маком и Люком Балто отправляется в рискованную спасательную экспедицию на помощь пропавшему летчику!
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Большое путешествие]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_81660.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.81/kino/Bolshoe_puteshestvie.1080.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Большое путешествие</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_81660.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2006<br>
+<b>Рейтинг КиноПоиск:</b> 6.2<br>
+<b>Страна:</b> Канада, США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Львенка Райана разлучили с его отцом и из нью-йоркского зоопарка отправили на корабле в Африку. Его друзья по зверинцу — коала, крокодил, хамелеон, жираф и белка — решают помочь царю зверей найти сына и, сбежав из зоопарка, отправляются на поиски Райана…
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Большой собачий побег]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_982760.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-cdn.kinoprofi.org/files/fXd_spBxa4gLG1uG21j-bw/1481261180/Bolshoy.Sobachiy.Pobeg.2016.HDRip.720p.flv]]></stream_url>
+<description><![CDATA[<table>
+<h2>Большой собачий побег</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_982760.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 5.4<br>
+<b>Страна:</b> Канада, Испания<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Жизнь беспечного бигля Оззи переворачивается с лап на голову, когда, отправляясь в отпуск, семья Мартинов отдает его в элитный спа-отель для собак. Но хозяева не могли и представить, что это всего лишь ловушка, а их любимец окажется в настоящей собачьей тюрьме. Чтобы прорваться через супер-систему охраны и злющих сторожевых псов, Оззи вместе с такими же бедолагами, как он, должен будет спланировать самый хитроумный и дерзкий побег в истории.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Босс-молокосос]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_842567.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Boss.Molokosos.2017.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Босс-молокосос</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_842567.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2017<br>
+<b>Рейтинг КиноПоиск:</b> 6.5<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, семейный<br>
+<p><hr><b>Описание: </b>
+Эта актуальная во все времена история для взрослых и детей рассказывается от лица семилетнего брата новорожденного — фантазера Тима, который ревнует его к родителям. Но главный герой — совсем не простой ребенок, он обладает лидерскими задатками, уже носит деловые костюмы и во всем видит бизнес-задачу.
+Однажды Тим узнает о готовящемся заговоре, целью которого является уничтожение любви, и организовал его директор компании «Puppy Co». Но одному Тиму не по силам его остановить. Мальчику предстоит объединиться со своим «нелюбимым» братом, чтобы спасти родителей и вернуть порядок на Земле.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Букашки. Приключение в Долине муравьев]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_708278.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.206/kino/Bukashki_Priklyuchenie_v_Doline_muravev.hd.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Букашки. Приключение в Долине муравьев</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_708278.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2013<br>
+<b>Рейтинг КиноПоиск:</b> 7.0<br>
+<b>Страна:</b> Франция, Бельгия<br>
+<b>Жанр:</b> мультфильм, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Активные и любознательные черные муравьишки обнаруживают брошенную после пикника коробку с сахаром. Дружный отряд муравьишек вместе с Божьей коровкой решают переправить лакомство в муравейник. Но сладкая коробка уже успела нарушить спокойствие во всей долине, и свои планы на лакомство появились у других обитателей леса, в частности — у злобных красных муравьев-захватчиков. А, стало быть, на пути к заветной цели черным муравьишкам предстоит преодолеть массу опасностей и приключений.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Бунт ушастых]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_454962.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.81/kino/Bunt_ushastyh.1080.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Бунт ушастых</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_454962.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2011<br>
+<b>Рейтинг КиноПоиск:</b> 6.1<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Анимационная комедия про кролика Хэппи, который не хотел продолжать семейное дело и разносить детям подарки перед Пасхой, а хотел стать барабанщиком и играть рок-н-ролл.
+А в это время злобный цыпленок строит планы по захвату власти на острове Пасхи.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[В поисках Дори]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_692957.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/V.Poiskah.Dori.2016.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>В поисках Дори</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_692957.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 7.4<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Дори — синяя доброжелательная рыбка-хирург, страдающая провалами в памяти. Она упорно стремится избавиться от своего недуга и найти свою семью.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[В поисках Немо]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_7908.jpg</logo_30x30>
+<stream_url><![CDATA[http://212.113.38.99/realhls/mst4/fhd/Finding.Nemo.2003.BDRip.1080p.Rus.Eng.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>В поисках Немо</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_7908.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2003<br>
+<b>Рейтинг КиноПоиск:</b> 7.9<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Среди прекрасных тропических морских стихий, в районе Большого барьерного рифа в уединении живет рыба-клоун по имени Марлин. Он растит своего единственного сыночка Немо. Океан и существующие в нем опасности очень страшат Марлина, и он как может ограждает сына от них, но молодой Немо, страдающий излишним любопытством, очень хочет разузнать побольше о таинственном рифе, рядом с которым они живут.
+Когда Немо по иронии судьбы оказывается вдалеке от дома, да и еще сталкивается с угрозой стать обедом рыбы-танка, Марлин отправляется на поиски сына. Но Марлин, конечно же, понимает, что героический спасатель из него не получится и просит о помощи в поисках, Дори, королевскую синюю рыбу, которая хоть и страдает от того, что почти ничего не помнит, но добрее ее не отыскать во всем безбрежном океане!
+Итак, наши герои отправляются в путешествие, в котором их подкарауливают многочисленные трудности и опасности…</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[ВАЛЛИ-И]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_279102.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/valli-2008.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>ВАЛЛИ-И</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_279102.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2008<br>
+<b>Рейтинг КиноПоиск:</b> 8.3<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фантастика, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Робот ВАЛЛ·И из года в год прилежно трудится на опустевшей Земле, очищая нашу планету от гор мусора, которые оставили после себя улетевшие в космос люди. Он и не представляет, что совсем скоро произойдут невероятные события, благодаря которым он встретит друзей, поднимется к звездам и даже сумеет изменить к лучшему своих бывших хозяев, совсем позабывших родную Землю.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Bверх]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_325381.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/vverh-2009.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Вверх</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_325381.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2009<br>
+<b>Рейтинг КиноПоиск:</b> 7.9<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, драма, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+78-летний ворчун Карл Фредриксен считает, что жизнь обходит его стороной. Чтобы сдержать обещание, данное своей почившей жене, он решает осуществить свою мечту о великом приключении, привязав тысячи воздушных шариков к своему дому и улетев в дебри Южной Америки. Не пролетев и полмили, путешественник обнаруживает, что он ненароком прихватил с собой крайне разговорчивого и неисправимо жизнерадостного 8-летнего мальчика по имени Рассел…
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Волки и овцы: бе-е-е-зумное превращение]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_738950.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.81/kino/Volki_i_ovcy.hd.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Волки и овцы: бе-е-е-зумное превращение</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_738950.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 6.8<br>
+<b>Страна:</b> Россия<br>
+<b>Жанр:</b> мультфильм, семейный, комедия, приключения<br>
+<p><hr><b>Описание: </b>
+Любимцу стаи, молодому и беззаботному волку Серому невдомек, что скоро он окажется чужим среди своих друзей. Претендуя на роль вожака стаи и на руку (вернее, лапу) и сердце самой красивой волчицы Бьянки, Серый продолжает дурачиться и устраивать розыгрыши над сородичами. Все переворачивается с ног на голову, когда он решает изменить себя с помощью волшебного зелья. Чудо действительно происходит: Серый превращается в барана! Опасаясь за свою, теперь овечью, шкуру, Серый сбегает от волков и поселяется в деревне овец.
+Теперь Серому предстоит не только вернуть доверие возлюбленной и стаи, но и свой прежний облик. Но как это сделать, если у тебя есть всего три дня, да еще рога и копыта?
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Bольт]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_70955.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/volt-2008.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Вольт</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_70955.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2008<br>
+<b>Рейтинг КиноПоиск:</b> 7.3<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, драма, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Пес по кличке «Вольт» всю жизнь снимается в телевизионном сериале, где его герой — суперпес — спасает человечество, используя свои необычайные способности. Сам Вольт свято верит в собственную неуязвимость, невероятную силу, и умение летать. Когда же судьба забрасывает его в полный опасностей Большой Город, он все еще думает, что это — лишь очередной эпизод телесериала…
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Гадкий я]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_432724.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/gadkiy-ya-2010.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Гадкий я</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_432724.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2010<br>
+<b>Рейтинг КиноПоиск:</b> 7.7<br>
+<b>Страна:</b> США, Франция<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Гадкий снаружи, но добрый внутри Грю намерен, тем не менее, закрепить за собой статус главного архизлодея в мире, для чего он решает выкрасть Луну при помощи созданной им армии миньонов. Дело осложняют конкуренты, вставляющие высокотехнические палки в колеса, и семейные обстоятельства в виде трех сироток, о которых Грю вынужден заботиться.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Гадкий я 2]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_550910.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Gadkiy.ya.2.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Гадкий я 2</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_550910.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2013<br>
+<b>Рейтинг КиноПоиск:</b> 7.6<br>
+<b>Страна:</b> США, Франция<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+В то время как Грю, бывший суперзлодей, приспосабливается к семейной жизни и пытается честным трудом зарабатывать в сфере бизнеса, тайные лаборатории Арктики оказываются украденными. Анти-Злодейская лига решает, что она нуждается в помощи Грю и его новобранцев в расследовании.</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Головоломка]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_645118.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/golovolomkai-2015.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Головоломка</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_645118.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2015<br>
+<b>Рейтинг КиноПоиск:</b> 8.0<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, семейный, комедия<br>
+<p><hr><b>Описание: </b>
+Райли — обычная 11-летняя школьница, и, как у каждого из нас, ее поведение определяют пять базовых эмоций: Радость, Печаль, Страх, Гнев и Брезгливость. Эмоции живут в сознании девочки и каждый день помогают ей справляться с проблемами, руководя всеми ее поступками. До поры до времени эмоции живут дружно, но вдруг оказывается, что Райли и ее родителям предстоит переезд из небольшого уютного городка в шумный и людный мегаполис. Каждая из эмоций считает, что именно она лучше прочих знает, что нужно делать в этой непростой ситуации, и в голове у девочки наступает полная неразбериха. Чтобы наладить жизнь в большом городе, освоиться в новой школе и подружиться с одноклассниками, эмоциям Райли предстоит снова научиться работать сообща.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Город героев]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_693126.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/gorod-geroev-big-hero6-2014.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Город героев</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_693126.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2014<br>
+<b>Рейтинг КиноПоиск:</b> 7.9<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фантастика, комедия, семейный, боевик<br>
+<p><hr><b>Описание: </b>
+Юный Хиро Хамада — прирожденный изобретатель и гений конструирования роботов. Вместе со старшим братом Тадаши они воплощают в жизнь самые передовые идеи в Техническом университете города будущего Сан-Франсокио. После серии загадочных событий друзья оказываются в центре коварного заговора. Отчаявшись, Хиро решает использовать веселого и добродушного экспериментального робота Бэймакса, перепрограммировав его в неуязвимую боевую машину.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Девять]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_180577.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.206/kino/Devyat.hd.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Девять</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_180577.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2009<br>
+<b>Рейтинг КиноПоиск:</b> 7.4<br>
+<b>Страна:</b> США, Германия<br>
+<b>Жанр:</b> мультфильм, фантастика, боевик, триллер, драма, детектив, приключения<br>
+<p><hr><b>Описание: </b>
+Человек создал искусственный разум, но не смог дать механизму душу. И однажды его творение подняло руку на своего создателя…
+В страшной войне человечество было уничтожено механическими монстрами. Перед тем как погибнуть, профессор, придумавший умные машины, сшил девять тряпичных кукол, вложив в них человеческие души. Девять Героев. Девять Характеров. Только вместе, помогая друг другу, им суждено выжить. Выжить, чтобы выполнить свою миссию…
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Дом]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_688384.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/dom-2015.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Дом</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_688384.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2015<br>
+<b>Рейтинг КиноПоиск:</b> 7.3<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фантастика, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Захватив Землю, раса пришельцев Був тут же начинает заниматься её благоустройством и реорганизацией. «Не стоит благодарности!» — заявляют они землянам, собранным на время в отдельных резервациях. Находчивая и рисковая девочка по имени Дар, чудом сбежавшая от пришельцев, встречает на своем пути самого раздражающе-оптимистичного Бува по имени О, отвергнутого своими инопланетными собратьями. Этой, казалось бы, несовместимой парочке предстоит спасти нашу планету. Хорошо, что у них есть летающий автомобиль!
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Зверопой]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_821008.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Zveropoy.2016.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Зверопой</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_821008.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 7.2<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, семейный, музыка<br>
+<p><hr><b>Описание: </b>
+В мире, который населяют звери, коала по имени Бастер Мун изо всех сил пытается предотвратить закрытие своего театра. В итоге Бастер и его друг, баран Эдди, устраивают конкурс певцов, предлагая принять участие каждому жителю города.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Зверополис]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_775276.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Zveropolis.2016.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Зверополис</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_775276.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 8.3<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, криминал, детектив, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Добро пожаловать в Зверополис — современный город, населенный самыми разными животными, от огромных слонов до крошечных мышек. Зверополис разделен на районы, полностью повторяющие естественную среду обитания разных жителей — здесь есть и элитный район Площадь Сахары и неприветливый Тундратаун. В этом городе появляется новый офицер полиции, жизнерадостная зайчиха Джуди Хоппс, которая с первых дней работы понимает, как сложно быть маленькой и пушистой среди больших и сильных полицейских. Джуди хватается за первую же возможность проявить себя, несмотря на то, что ее партнером будет болтливый хитрый лис Ник Уайлд. Вдвоем им предстоит раскрыть сложное дело, от которого будет зависеть судьба всех обитателей Зверополиса.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Злые птички (Angry Birds в кино)]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_609618.jpg</logo_30x30>
+<stream_url><![CDATA[http://212.113.38.99/realhls/st2/fhd/AHGp1.61ordC.v.K11Ho.2016.D.BDRip.1080p.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Злые птички (Angry Birds в кино)</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_609618.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2015<br>
+<b>Рейтинг КиноПоиск:</b> 6.4<br>
+<b>Страна:</b> США, Финляндия<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Фильм расскажет о том, как началось знаменитое противостояние птичек и свинок, персонажей популярной компьютерной игры, а также раскроет некоторые секреты любимых героев....</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Индюки: Назад в будущее]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_504668.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Induki.Nazad.v.budushee.2013.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Индюки: Назад в будущее</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_504668.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2013<br>
+<b>Рейтинг КиноПоиск:</b> 6.3<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Индюк Реджи вырос на обычной ферме, его жизнь была скучной и однообразной, как и у других птиц. Однако он отличался от сородичей тем, что умел пользоваться смекалкой и понимал, зачем его кормят. Поедание индейки на День Благодарения — знаменитая американская традиция, которая определяет смысл существования всех индюков на этой ферме. Однажды у Реджи появилась возможность кардинально изменить ситуацию: вместе с безумным приятелем Джейком они отправляются в необычное путешествие на машине времени. Основная задача — вернуться во времена, когда зарождалась традиция приготовления индейки на праздник, и изменить ход истории.
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[История игрушек]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_482.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/istoriya-igrushek-1995.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>История игрушек</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_482.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1995<br>
+<b>Рейтинг КиноПоиск:</b> 7.9<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Каждый ребенок верит, что когда он оставляет свои игрушки одни, они начинают заниматься своими делами. Этот мультипликационный фильм позволяет убедиться им в своей правоте.
+Основная идея фильма — каждая игрушка боится надоесть, стать забытой, замененной другой, так как весь смысл их существования — доставлять счастье своим хозяевам.
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[История игрушек 2]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_405.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Igrushejnaya.Istoriya.2.1999.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>История игрушек 2</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_405.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1999<br>
+<b>Рейтинг КиноПоиск:</b> 7.7<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Ковбой Вуди и другие игрушки мальчика по имени Энди продолжают жить, радуясь каждому дню. Но неожиданно все меняется, когда Вуди похищает коварный коллекционер. Оказывается, что Вуди — очень ценная игрушка из коллекции, за которую японский музей игрушек готов заплатить огромную сумму. В доме коллекционера он находит своих родственников. В это время игрушки во главе с Баззом Лайтером отправляются спасать Вуди.
+Вуди узнает о своем знаменитом прошлом, Базз и другие игрушки проходят опасный и тернистый путь. Перед Вуди встает непростой вопрос — каково же его предназначение? Блистать в витрине музея или же вернуться к любимому хозяину?
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[История игрушек: Большой побег]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_258328.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/istoriya-igrushek-bolshoy-pobeg-2010.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>История игрушек: Большой побег</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_258328.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2010<br>
+<b>Рейтинг КиноПоиск:</b> 7.8<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Энди почти 18 лет, ему остаётся 3 дня до отправки в колледж, в то время как его игрушки, в том числе Вуди и Базз Лайтер, гадают о своём будущем.
+Куда забросит их судьба? На чердак, на свалку или, может быть, в детский сад «Солнышко»?
+События развиваются в самом неожиданном направлении, и приключения полюбившихся героев продолжаются!
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Как приручить дракона]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_280172.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/kak-priruchit-drakona-2010.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Как приручить дракона</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_280172.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2010<br>
+<b>Рейтинг КиноПоиск:</b> 8.2<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Вы узнаете историю подростка Иккинга, которому не слишком близки традиции его героического племени, много лет ведущего войну с драконами. Мир Иккинга переворачивается с ног на голову, когда он неожиданно встречает дракона Беззубика, который поможет ему и другим викингам увидеть привычный мир с совершенно другой стороны…
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Как приручить дракона 2]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_512883.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/kak-priruchit-drakona-2-2014.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Как приручить дракона 2</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_512883.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2014<br>
+<b>Рейтинг КиноПоиск:</b> 7.9<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+С момента примирения викингов и драконов прошло пять лет. Пока Астрид, Сморкала и остальные ребята проводят время, соревнуясь друг с другом в популярных на острове драконьих гонках, Иккинг и Беззубик путешествуют по небу, составляя карту неизвестных мест. Когда одно из их приключений приводит к открытию тайной ледяной пещеры, которая является домом для сотен ранее невиданных диких драконов и таинственного драконьего всадника, два друга оказываются в центре битвы за защиту мира.
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Король Лев]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_2360.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Korol.lev.1994.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Король Лев</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_2360.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1994<br>
+<b>Рейтинг КиноПоиск:</b> 8.8<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, мюзикл, драма, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+У величественного Короля-Льва Муфасы рождается наследник по имени Симба. Уже в детстве любознательный малыш становится жертвой интриг своего завистливого дяди Шрама, мечтающего о власти.
+Симба познаёт горе утраты, предательство и изгнание, но в конце концов обретает верных друзей и находит любимую. Закалённый испытаниями, он в нелёгкой борьбе отвоёвывает своё законное место в «Круге жизни», осознав, что значит быть настоящим Королём.
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Корпорация монстров]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_458.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/korporaciya-monstrov-2002.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Корпорация монстров</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_458.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2001<br>
+<b>Рейтинг КиноПоиск:</b> 8.1<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Склизкий гад в сливном бачке, мохнатый зверь, похожий на чудовище из «Аленького цветочка», гигантские мокрицы под кроватью — все они существуют на самом деле. Все, что им нужно — пугать детей, потому что из детских криков они получают электричество.
+Полнометражный мультфильм рассказывает о кризисах в мире монстров, их жизни. Но однажды вся мирная жизнь монстров оказывается под угрозой: в их мир попадает ребенок. А с детьми столько хлопот, что они могут довести даже монстров.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Кот в сапогах]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_102146.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/kot-v-sapogah-2011.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Кот в сапогах</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_102146.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2011<br>
+<b>Рейтинг КиноПоиск:</b> 7.1<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, боевик, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Мечи пересекутся и сердца будут разбиты в приключениях с одним из самых любимых персонажей из Шрэка — котом в сапогах. Это удалая поездка ранних лет кота в сапогах, когда он объединяется с умным Шалтай-Болтаем и сообразительной Кисой, чтобы украсть знаменитую Гусыню, несущую золотые яйца.
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Кот Гром и заколдованный дом]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_751952.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/kot-grom-i-zakoldovannyy-dom-2014.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Кот Гром и заколдованный дом</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_751952.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2013<br>
+<b>Рейтинг КиноПоиск:</b> 6.7<br>
+<b>Страна:</b> США, Бельгия<br>
+<b>Жанр:</b> мультфильм, семейный<br>
+<p><hr><b>Описание: </b>
+Любопытный рыжий кот попадает в дом старого фокусника и узнает секрет его трюков. Так начинается его знакомство с учеными зверями и живыми игрушками, а также невероятные приключения полные юмора и опасностей.
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Кошмар перед Рождеством]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_8222.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Koshmar.Pered.Rojdestvom.1993.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Кошмар перед Рождеством</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_8222.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1993<br>
+<b>Рейтинг КиноПоиск:</b> 8.0<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, мюзикл, фэнтези, семейный<br>
+<p><hr><b>Описание: </b>
+Мультфильм рассказывает о царстве Хэллоуин, царстве страхов и кошмаров, где живут мертвецы, уродцы, чудовища во главе с царем ужасов Джеком Скеллингтоном. Под рождество Джек случайно попадает в город Рождества, где узнает, что есть где-то радость, добро и веселье.
+Ему страшно захотелось испытать это чувство — дарить людям счастье — и он похитил Санта Клауса и занял его место. Результаты были, правда, самые плачевные, да и подарки его никому, мягко говоря, не понравились. Но он все понял и исправил свою ошибку.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Книга жизни]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_669880.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.206/kino/Kniga_zhizni.1080.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Книга жизни</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_669880.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2014<br>
+<b>Рейтинг КиноПоиск:</b> <br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, мелодрама, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+В мультфильме описывается романтическая история любви на фоне празднования Дня мертвых в Мексике.
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Кто подставил кролика Роджера]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_7108.jpg</logo_30x30>
+<stream_url><![CDATA[http://77.120.104.206/kino/Kto_podstavil_krolika_Rodzhera.hd.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Кто подставил кролика Роджера</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_7108.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1988<br>
+<b>Рейтинг КиноПоиск:</b> 7.9<br>
+<b>Страна:</b>США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, криминал, детектив, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Частный детектив расследует загадочное преступление, в котором подозревается… мультипликационный персонаж кролик Роджер! Сыщик попадает в непредсказуемый мир, где его ожидают нарисованные злодеи с настоящими револьверами, говорящий автомобиль и соблазнительная мультяшная красотка. Наконец, на горизонте появляется мрачная фигура того, кто подставил кролика Роджера…
+</p>]]>
+</description>
+</channel>
+
+<channel>
+<title><![CDATA[Кубо. Легенда о самурае]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_882290.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Kubo.Legenda.o.Samurae.2016.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Кубо. Легенда о самурае</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_882290.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 7.5<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Кубо — наследник великого рода, но когда возвратились духи прошлого, жаждущие мести, на его защиту отважилась встать лишь странная парочка хранителей. И теперь для Кубо единственный шанс на спасение — найти магические доспехи отца, легендарного самурая.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Кунг-фу Панда]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_103734.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/kung-fu-panda-2008.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Кунг-фу Панда</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_103734.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2008<br>
+<b>Рейтинг КиноПоиск:</b> 7.8<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Спасение Долины Мира и всех ее обитателей от непобедимого и безжалостного мастера Тай Лунга должно лечь на плечи Воина Дракона, Избранного среди лучших из лучших, коим становится… неуклюжий, ленивый и вечно голодный панда По.
+Ему предстоит долгий и трудный путь к вершинам мастерства кунг-фу бок о бок с легендарными воинами: Тигрой, Обезьяной, Богомолом, Гадюкой и Журавлем. По постигнет тайну древнего Свитка и станет Воином Дракона только в том случае, если сможет поверить в себя…</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Кунг-фу Панда 2]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_427878.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/kung-fu-panda-2-2011.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Кунг-фу Панда 2</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_427878.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2011<br>
+<b>Рейтинг КиноПоиск:</b> 7.4<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Панда По наконец-то исполнит свою мечту, станет Воином Дракона и со своими друзьями и мастерами кунг-фу — Неистовой Пятеркой — защитит Великую Долину от страшного злодея и его легиона…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Кунг-фу Панда 3]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_692865.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/smotret-kungu-fu-panda-3-2016.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Кунг-фу Панда 3</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_692865.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 7.4<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Воссоединившись со своим давно потерянным отцом, По отправляется в тайный рай для панд, где его ожидает встреча с множеством веселых сородичей. Однако вскоре злодей Кай начинает зачистку — он уничтожает кунг-фу мастеров по всему Китаю.
+По предстоит сделать невозможное — обучить боевому искусству деревню, полную его веселых, неуклюжих собратьев, и тем самым превратить их в отряд кунг-фу панд.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Лего. Фильм]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_471644.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/lego-film-2014.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Лего. Фильм</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_471644.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2014<br>
+<b>Рейтинг КиноПоиск:</b> 7.9<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, боевик, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Обычная лего-фигурка соглашается присоединиться к походу против злого лего-диктатора, планирующего склеить вместе всю вселенную…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Ледниковый период]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_707.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/lednikovyy-period-2002.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Ледниковый период</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_707.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2002<br>
+<b>Рейтинг КиноПоиск:</b> 8.0<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Веселые и опасные приключения героев. 20 тыс. лет назад. Чтобы избежать приближающегося из-за наступления ледникового периода холода, животные мигрируют на юг. Однако некоторые из них все-таки решают остаться — одинокий, угрюмый мамонт Манфред, а также бесшабашный ленивец Сид.
+Случайно эта парочка наталкивается на человеческого детеныша. Они решаются вернуть его людям и отправляются в путешествие. По пути они встречают саблезубого хитрого тигра. И теперь этой веселой компании предстоят забавные приключения!
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Ледниковый период 2: Глобальное потепление]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_86204.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Lednikoviy.Period.Globalnoe.2006.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Ледниковый период 2: Глобальное потепление</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_86204.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2006<br>
+<b>Рейтинг КиноПоиск:</b> 7.6<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, боевик, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Саблезубый тигр Диего, мамонт Манфред, грызун Скрэт и ленивец Сид дожили до глобального потепления. С одной стороны, это круто — ледяная пустыня превратилась в настоящий аквапарк, где можно принимать теплые ванны и резвиться под сенью струй. С другой — не очень: стремительный паводок идет прямиком к их родной долине. 
+Теперь ответственным животным придется спасать соседей от потопа, что довольно проблематично — строить ковчег совершенно не из чего, кроме как из талого снега. Но не беспокойтесь — эвакуация разнообразной живности в сухое место пройдет не менее суетливо, смешно и успешно, чем и прошлая операция по возвращению человеческого детеныша в лоно семьи.
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Ледниковый период 3: Эра динозавров]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_392930.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/lednikovyy-period-3-era-dinozavrov-2009.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Ледниковый период 3: Эра динозавров</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_392930.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2009<br>
+<b>Рейтинг КиноПоиск:</b> 7.5<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, боевик, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+К событиям «Ледникового периода 3» жизнь главных героев мультфильма потерпела некоторые изменения. Мамонты Манфред и Элли ожидают появление на свет своего детёныша; саблезубый тигр Диего впал в раздумье о том, не стал ли он слишком «мягкотелым» в компании своих друзей; ленивец Сид, бредя желанием создать собственное племя, решился украсть несколько яиц динозавра. Отправившись спасать Сида, друзья попадают в таинственный растительный мир, скрытый под толщами льда, где они сталкиваются с динозаврами и агрессивной окружающей средой, а также знакомятся с охотником на динозавров — лаской по имени Бак.
+Крысобелка Скрэт (который вновь случайным образом стал виной глобальной проблемы, открыв путь в мир динозавров) по-прежнему гоняется за своим орехом, но на этот раз у него появился конкурент — крысобелка Скрэтти, однако, одновременно с одержимой борьбой за орех, эти двое влюбляются друг в друга.
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Ледниковый период 4: Континентальный дрейф]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_522180.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Lednikoviy.Period.2011.4.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Ледниковый период 4: Континентальный дрейф</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_522180.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2012<br>
+<b>Рейтинг КиноПоиск:</b> 7.0<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, боевик, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+После приключений под землей прошло семь лет. Случился дрейф континентов. Главные герои мультфильма, отделённые от стада, вынуждены использовать айсберг в качестве плота. Они пересекают океан и попадают в неизвестные им ранее земли с экзотическими животными и пиратами, враждебно настроенными к ним. Скрэту удаётся получить свой жёлудь, но он перемещается в новые для него земли.
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Ледниковый период 5: Столкновение неизбежно]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_818145.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Lednikoviy.Period.Stolknoveniye.Neizbejno.2016.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Ледниковый период 5: Столкновение неизбежно</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_818145.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 5.6<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, боевик, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Отчаянная погоня за неуловимым желудем катапультирует Скрата прямо в космос, где он случайно запускает целую серию космических событий. Именно они изменят весь мир Ледникового периода и станут реальной угрозой для него. Чтобы спастись, Сид, Мэнни, Диего и остальные звери должны покинуть свои дома, отправиться в забавное и захватывающее приключение в экзотические новые земли и встретиться со множеством красочных новых персонажей.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Мадагаскар]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_6006.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/madagaskar-2005.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Мадагаскар</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_6006.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2005<br>
+<b>Рейтинг КиноПоиск:</b> 7.9<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Четверо изнеженных животных из Центрального зоопарка в Нью-Йорке — лев Алекс, зебра Марти, жираф Мелман и гиппопотамиха Глория — решаются на побег. Оказавшись после кораблекрушения на экзотическом острове Мадагаскар, населенном лемурами и поедающими их фоссами, путешественники с ужасом понимают, что с городскими привычками им придется распрощаться. 
+Здесь нет людей, любимых клеток, вкусной кормежки. Начинается шоу «Последний герой» только с животными — нашим друзьям нужно выжить в непривычной среде обитания, где на каждом шагу подстерегает опасность…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Мадагаскар 2]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_161066.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/madagaskar-2-2008.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Мадагаскар 2</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_161066.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2008<br>
+<b>Рейтинг КиноПоиск:</b> 7.6<br>
+<b>Страна:</b> CША<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Полная опасностей жизнь на Мадагаскаре не оправдала ожиданий привыкших к комфорту Нью-Йоркского зоопарка животных — льва Алекса, зебры Марти, жирафа Мелмана и бегемотихи Глории — и друзья решают сбежать с острова. По случайности, всю компанию заносит в Африку, где Алекс встречает свою семью, с которой он был разлучен в детстве. Неожиданно для себя Алекс понимает, что после жизни в зоопарке у него гораздо меньше общего с родственниками, чем ему хотелось бы…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Мадагаскар 3]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_422792.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Madagaskar.3.2012.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Мадагаскар 3</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_422792.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2012<br>
+<b>Рейтинг КиноПоиск:</b> 7.5<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Лев Алекс, зебра Марти, гиппопотамиха Глория и жираф Мелман, а также король Джулиан, Морис, Морт и Пингвины все еще пытаются вернуться в Нью-Йорк. На этот раз их путь пройдет через Европу, где они откроют свой цирк.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Маленький принц]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_572553.jpg</logo_30x30>
+<stream_url><![CDATA[http://212.113.38.99/realhls/st1/fhd/The.Little.Prince.2015.1080p.mp4/index-v1-a1.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Маленький принц</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_572553.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2015<br>
+<b>Рейтинг КиноПоиск:</b> 8.0<br>
+<b>Страна:</b> Канада, Франция<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Мир невозможен без фантазии и приключений. По крайней мере в это верит добродушный старик авиатор, по соседству с которым недавно поселилась одна очень педантичная мама со своей прилежной дочкой. Жизнь девочки подчинена строгому учебному плану, в котором время на друзей предусмотрено только следующим летом. Однако этот тщательно выстроенный план трещит по швам, когда в жизнь девочки врывается странный сосед с его невероятными рассказами о Маленьком Принце и далеких звездах. Осталось только починить самолет, и в путь! Так начинается большое путешествие девочки - полное опасностей, волшебства, юмора и настоящей дружбы....</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Мегамозг]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_405608.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/megamozg-2010.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Мегамозг</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_405608.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2010<br>
+<b>Рейтинг КиноПоиск:</b> 7.5<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фантастика, боевик, комедия, семейный<br>
+<p><hr><b>Описание: </b>
+Мегамозг — самый гениальный и самый неудачливый злодей в мире. Вот уже много лет он пытается покорить Метро-Сити самыми разнообразными способами. Но каждая такая попытка кончается провалом по вине супергероя по имени Метро-Мэн. Но злодей убивает супергероя, и внезапно Мегамозг лишается цели в жизни. Суперзлодей без супергероя.
+Единственный выход — создать нового супергероя, которого он называет Титаном. Но Титан решает, что быть злодеем куда интереснее. Вот только ему не хочется править миром, он желает его уничтожить. Мегамозгу предстоит непростой выбор. Сможет ли злой гений стать героем — спасителем человечества.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Миньоны]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_694051.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/minonyy-2015.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Миньоны</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_694051.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2015<br>
+<b>Рейтинг КиноПоиск:</b> 6.2<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, боевик, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Миньоны живут на планете гораздо дольше нас. У них одна навязчивая идея — служить самой Гадкой личности из имеющихся в наличии. Динозавры, фараоны, Дракула, Наполеон — все они оказались недолговечны. И тогда миньоны рванули в Нью-Йорк. Их ждут деньги, власть, роковая суперзлодейка Скарлет Оверкилл и, конечно же, вкуснейшая «банана»! Во всяком случае, так им кажется.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Mоана]]></title>
+<logo_30x30>https://www.kinopoisk.ru/images/film_big/837530.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Moana.2016.HDRip.720p/playlist.m3u8 ]]></stream_url>
+<description><![CDATA[<table>
+<h2>Моана</h2>
+<p><img height="235" src="https://www.kinopoisk.ru/images/film_big/837530.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 7.4<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, мюзикл, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Бесстрашная Моана, дочь вождя маленького племени на острове в Тихом океане, больше всего на свете мечтает о приключениях и решает отправиться в опасное морское путешествие. Вместе с некогда могущественным полубогом Мауи им предстоит пересечь океан, сразиться со страшными чудовищами и разрушить древнее заклятие.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Монстры на каникулах]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_280174.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Otel.Transilvaniya.2012.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Монстры на каникулах</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_280174.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2012<br>
+<b>Рейтинг КиноПоиск:</b> 7.6<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, семейный<br>
+<p><hr><b>Описание: </b>
+Граф Дракула для себя и своей любимой дочки построил хорошо укрытый от посторонних глаз отель, куда монстры со всего света приезжают отдохнуть от семейных забот, повседневной суеты и, конечно… людей. Но вездесущие американские туристы проникают и сюда.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Монстры на каникулах 2]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_716891.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/monstry-na-kanikulah-2-2015.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Монстры на каникулах 2</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_716891.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2015<br>
+<b>Рейтинг КиноПоиск:</b> 7.2<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, семейный<br>
+<p><hr><b>Описание: </b>
+Граф Дракула выдает свою очаровательную дочь замуж за парня из мира людей, и у молодой «смешанной» пары рождается сын. Станет ли этот ребенок человеком или вампиром?
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Mулан]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_5277.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Mulan.1998.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Мулан</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_5277.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1998<br>
+<b>Рейтинг КиноПоиск:</b> 8.1<br>
+<b>Страна:</b> CDATA<br>
+<b>Жанр:</b> мультфильм, мюзикл, фэнтези, приключения, семейный, военный<br>
+<p><hr><b>Описание: </b>
+Для великого народа наступили тяжелые времена: на страну напало воинственное племя гуннов. Переодевшись в мужскую одежду, Мулан присоединяется к другим воинам и отправляется в опасный поход к подножию заснеженных гор. Ее сопровождает забавный дракончик Мушу, который больше похож на маленькую собачку, чем на мифическое чудовище. 
+Пытаясь скрыть тайну, они попадают в забавные ситуации и не подозревают, что их секрет вот — вот раскроется!…
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Облачно возможны осадки в виде фрикаделек]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_276363.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/oblachno-vozmozhny-osadki-v-vide-frikadelek-2009.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Облачно возможны осадки в виде фрикаделек</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_276363.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2009<br>
+<b>Рейтинг КиноПоиск:</b> 6.9<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фантастика, фэнтези, комедия, семейный<br>
+<p><hr><b>Описание: </b>
+Главный герой мультфильма — странный ученый Флинт Локвуд, который всегда хотел изобрести что-то такое, что сделает его родной городок счастливым. И вот, у него получилось! Еды теперь хватает всем, и она просто падает с неба, создавая новые пейзажи вокруг: можно любоваться закатом с живописных холмов из фруктового желе. Но иногда вкусные осадки в виде фрикаделек могут превратиться в настоящий торнадо из аппетитных, но уже опасных спагетти! Гениальному ученому и его друзьям предстоит исправить положение дел в сытом городке.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Облачно... 2 Месть ГМО]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_596481.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Oblachno.Mest.GMO.2.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Облачно... 2 Месть ГМО</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_596481.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2013<br>
+<b>Рейтинг КиноПоиск:</b> 6.5<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фантастика, фэнтези, комедия, семейный<br>
+<p><hr><b>Описание: </b>
+Все жители острова Поплавок покинули родной дом после событий предыдущего мультфильма. Главный герой Флинт Локвуд теперь работает в компании The Live Corp на своего кумира Честера. Но ему придется оставить свой пост когда он узнает, что его печально-известная машина все ещё работает и производит на свет опасных гибридов. Флинту предстоит ещё раз спасти мир и не дать коварной машине распространить громадную еду по всему миру.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Побег с планеты Земля]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_601797.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Pobeg.s.planeti.zemlya.2013.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Побег с планеты Земля</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_601797.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2013<br>
+<b>Рейтинг КиноПоиск:</b> 6.3<br>
+<b>Страна:</b> США, Канада<br>
+<b>Жанр:</b> мультфильм, фантастика, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+На планете Бааб, в самом центре Вселенной, два брата делают всё возможное, чтобы защитить свою галактику. Они — полные противоположности. Если девиз Гарри — «сначала подумай, потом сделай», то отважный Скорч живет по закону «сила есть — ума не надо», что не мешает им слаженно работать. Но однажды они получают сигнал S.O.S. с опасной планеты…под названием Земля. Скорч, сломя голову, бросается на помощь, и, разумеется, влипает в неприятности. Только Гарри может вытащить его из «Зоны 51». Братья откроют множество головокружительных тайн, но смогут ли они сбежать с самой опасной планеты во Вселенной?
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Полный расколбас 18+]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_557804.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Polniy.Raskolbas.2016.HRIp.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Полный расколбас</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_557804.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 5.9<br>
+<b>Страна:</b> США, Камбоджа<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения<br>
+<p><hr><b>Описание: </b>
+Первая анимационная комедия для взрослых о невероятных приключениях еды из супермаркета. Съедобным друзьям предстоит получить ответ на главный вопрос: есть ли жизнь за стенами супермаркета, и что же происходит с продуктами после того, как они попадают к людям домой?
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Приключения Тинтина: Тайна Единорога]]></title>
+<logo_30x30>https://www.kinopoisk.ru/images/film_big/406186.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/priklyucheniya-tintina-tayna-edinoroga-2011.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Приключения Тинтина: Тайна Единорога</h2>
+<p><img height="235" src="https://www.kinopoisk.ru/images/film_big/406186.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2011<br>
+<b>Рейтинг КиноПоиск:</b> 7.4<br>
+<b>Страна:</b> США, Новая Зеландия<br>
+<b>Жанр:</b> мультфильм, боевик, детектив, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Главный герой — молодой газетный репортёр Тинтин. Благодаря своей профессии он путешествует по всему миру и становится участником увлекательных приключений.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Pальф]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_586260.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Ralf.2012.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Ральф</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_586260.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2012<br>
+<b>Рейтинг КиноПоиск:</b> 7.8<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Ральф — второстепенный персонаж восьмибитной компьютерной игры, и ему надоело находиться в тени главного героя, мастера на все руки Феликса, который всегда появляется, чтобы «исправить» ситуацию! После тридцати лет добросовестной работы в роли злодея, в течение которых все похвалы выпадали на долю Феликса, Ральф больше не хочет быть плохим.
+Он решает отправиться в путешествие по аркадным играм разных жанров, чтобы доказать всем, что и он тоже может быть героем. На своем пути Ральф встречает героев разных игр — хладнокровную сержанта Калхун из игры Hero’s Duty, оберегающую планету от нашествия инопланетных захватчиков, и сладкую на вид, но острую на язычок Сластену фон Дю, чье существование в гоночном симуляторе Sugar Rush внезапно оказывается под угрозой. Наконец-то Ральфу выпадает шанс показать, что он умеет не только разрушать!
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Рататуй]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_89514.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Ratatui.2007.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Рататуй</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_89514.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2007<br>
+<b>Рейтинг КиноПоиск:</b> 7.8<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, семейный<br>
+<p><hr><b>Описание: </b>
+Крыс Реми обладает уникальным вкусом. Он готов рисковать собственной жизнью, чтобы посмотреть любимое кулинарное шоу и раздобыть какую-нибудь приправку или просто свежий продукт. Реми живет со своими сородичами, которые его не понимают и не принимают его увлечения кулинарией. Когда Реми случайно попадает на кухню шикарного ресторана, он решает воспользоваться выпавшим ему шансом и проверить свои навыки. 
+На эту же кухню попадает и юный Лингвини. Всё, на что он может расчитывать — это должность уборщика. Но он тоже получает свой шанс…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Робинзон Крузо: Очень обитаемый остров]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_919286.jpg</logo_30x30>
+<stream_url><![CDATA[http://cdn.kinoprofi.org/files/m-Havms6p_yuWPGE10BbrQ/1476533305/Robinzon.Kruzo.2016.HDRip.flv]]></stream_url>
+<description><![CDATA[<table>
+<h2>Робинзон Крузо: Очень обитаемый остров</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_919286.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 6.0<br>
+<b>Страна:</b> Франция, Бельгия<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Все знают историю о Робинзоне Крузо, попавшем на необитаемый остров. Однако, как же можно назвать его необитаемым, если он населен разнообразными веселыми животными и птицами? Они очень удивились, впервые встретив это странное существо, и даже приняли его за морское чудовище. Попугаю по кличке Вторник и его друзьям — хамелеону, тапиру и другим обитателям острова предстоит поближе познакомиться с незнакомым зверем «человеком» и вместе с ним пережить массу опасных и веселых приключений.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Роботы]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_40666.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/roboty-2005.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Роботы</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_40666.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2005<br>
+<b>Рейтинг КиноПоиск:</b> 7.2<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фантастика, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Действие фильма разворачивается в мире, населенном исключительно роботами. Как и в мире людей у них есть своя социальная лестница, свои герои и изгои. Молодой гений Родни мечтает сделать мир роботов лучше. А еще ему очень нравится одна молоденькая сексапильная роботша Каппи. Но на пути всех его планов стоит ведущий дизайнер роботов Биг Велд, принадлежащий к тому же сословию, что и Каппи…
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Самолеты]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_592300.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Samoleti.2013.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Самолеты</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_592300.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2013<br>
+<b>Рейтинг КиноПоиск:</b> 6.5<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Дасти Полейполе — скромный трудяга-самолет, работающий сельскохозяйственным распылителем на заштатном провинциальном аэродроме. Однако это не мешает ему мечтать о том, чтобы однажды принять участие в кругосветных гонках самых быстрых самолетов. Одна незадача — Дасти панически боится большой высоты. Поэтому, когда волею случая он все же попадает в число участников отборочного тура воздушных соревнований, ему приходится искать помощи у ветерана военно-морской авиации, отставного истребителя Шкипера. С помощью мудрого наставника Дасти сможет преодолеть свои слабости и бросить вызов надменному чемпиону Рипслингеру, а весь мир будет с замиранием сердца следить за гонкой в небесах!..
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Самолеты: Огонь и вода]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_769220.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/samolety-ogon-i-voda-2014.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Самолеты: Огонь и вода</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_769220.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2014<br>
+<b>Рейтинг КиноПоиск:</b> 6.6<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Самолетик Дасти, который стал уже легендой воздушных гонок, вскоре узнает, что его двигатель сильно повреждён, и он никогда не может больше участвовать в скоростных воздушных гонках. Дасти ищет себе новое занятие и знакомится с мужественной пожарно-спасательной командой, которой руководит ветеран авиации вертолёт по имени Ренждер. Узнав, насколько тяжела и опасна работа пожарной авиации, Дасти поймёт, что такое настоящий героизм и самоотдача, и сам захочет стать спасателем.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Секретная служба Санта-Клауса]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_464090.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/sluzhba-santa-klausa-2011.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Секретная служба Санта-Клауса</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_464090.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2001<br>
+<b>Рейтинг КиноПоиск:</b> 7.4<br>
+<b>Страна:</b> Великобритания, США<br>
+<b>Жанр:</b> мультфильм, комедия, семейный, приключения, фэнтези<br>
+<p><hr><b>Описание: </b>
+Фильм приоткрывает завесу тайны над тем, каким образом Санта-Клаусу удается развезти подарки всем детям на Земле всего за одну ночь.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Семейка Крудс]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_198116.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Semeyka.Kroods.2013.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Семейка Крудс</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_198116.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2013<br>
+<b>Рейтинг КиноПоиск:</b> 7.6<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Землетрясение уничтожило дом доисторической семьи, и теперь Крудсам придётся искать другое пристанище. А вокруг новый и опасный мир! Им на помощь приходит молодой кочевник Малой, передовые взгляды которого наталкиваются на консервативность главы семьи Груга. Но только вместе они смогут выжить и достичь своей цели…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Симпсоны в кино]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_195332.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Simpsoni.v.Kino.2006.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Симпсоны в кино</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_195332.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2007<br>
+<b>Рейтинг КиноПоиск:</b> 7.4<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения<br>
+<p><hr><b>Описание: </b>
+После того, как Гомер сбросил отходы в водохранилище, Спрингфилд объявили карантинной зоной и накрыли гигантским стеклянным колпаком, а местные жители ополчились на Симпсонов за то, что их отрезали от остального мира…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Спирит: Душа прерий]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_839.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/spirit-dusha-preriy-2002.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Спирит: Душа прерий</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_839.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2002<br>
+<b>Рейтинг КиноПоиск:</b> 8.0<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, приключения, семейный, вестерн<br>
+<p><hr><b>Описание: </b>
+Этот приключенческий мультфильм рассказывает историю дикого жеребца мустанга Спирита, путешествующего по территории всей Америки. Храбрый Спирит заводит дружбу с молодым индейцем Ручейком и находит любовь с красивой кобылой по имени Гроза.
+Все счастливы до тех пор, пока на жеребца не положили глаз люди, которые хотят сделать из него военную лошадь…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Стальной гигант]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_538.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Stalnoy.Gigant.1999.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Стальной гигант</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_538.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 1999<br>
+<b>Рейтинг КиноПоиск:</b> 8.1<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фантастика, боевик, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Жители тихой американской провинции становятся свидетелями ослепительной вспышки и падения огромного летающего объекта. Спустя несколько дней мальчуган по имени Хогарт Хьюз находит в окрестностях гигантского робота, прилетевшего на Землю из далекой космической галактики.
+Несмотря на свой грозный вид, инопланетный гость оказывается добрейшим созданием. Между ним и отважным мальчишкой завязывается настоящая дружба. Но узнавшие о существовании робота правительство и военные решили уничтожить пришельца. Хогарт — единственный, кто может спасти стального гиганта…
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Суперсемейка]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_38903.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/supersemeyka-2004.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Суперсемейка</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_38903.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2004<br>
+<b>Рейтинг КиноПоиск:</b> 7.5<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, боевик, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+История семьи супергероев, члены которой уже отошли от больших дел и предпочитают жить непримечательной жизнью обычных землян. В прошлом все они обладали сверхъестественными способностями и относительно легко справлялись с мировым злом.
+Но в один прекрасный день папаше и его домочадцам приходится вновь облачиться в прорезиненные костюмы супергероев (а для этого нужно срочно сбросить лишние килограммы!) и в очередной раз спасти человечество от таинственного злодея…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Тайная жизнь домашних животных]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_743088.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Taynaya.Jizn.Domashnih.Jivotnih.2016.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Тайная жизнь домашних животных</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_743088.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 6.9<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Что делают домашние животные пока хозяева пропадают на работе? С тоской смотрят в окно? Смиренно дремлют на коврике у двери? Как бы не так. Они ведут свою тайную жизнь.
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Tачки]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_61249.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Tachki.2006.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Тачки</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_61249.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2006<br>
+<b>Рейтинг КиноПоиск:</b> 7.5<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный, спорт<br>
+<p><hr><b>Описание: </b>
+Неукротимый в своем желании всегда и во всем побеждать гоночный автомобиль «Молния» Маккуин вдруг обнаруживает, что сбился с пути и застрял в маленьком захолустном городке Радиатор-Спрингс, что находится где-то на трассе 66 в Калифорнии.
+Участвуя в гонках на Кубок Поршня, где ему противостояли два очень опытных соперника, Маккуин совершенно не ожидал, что отныне ему придется общаться с персонажами совсем иного рода. Это, например, Салли — шикарный Порше 2002-го года выпуска, Док Хадсон — легковушка модели «Хадсон Хорнет», 1951-го года выпуска или Метр — ржавый грузовичок-эвакуатор. И все они помогают Маккуину понять, что в мире существуют некоторые более важные вещи, чем слава, призы и спонсоры…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Тачки 2]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_409013.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/tachki-2-2011.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Тачки 2</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_409013.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2011<br>
+<b>Рейтинг КиноПоиск:</b> 6.9<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, комедия, приключения, семейный, спорт<br>
+<p><hr><b>Описание: </b>
+Молния МакКуин и его друг Мэтр отправляются в международное путешествие — когда МакКуин получает шанс участвовать в соревнованиях для самых быстрых машин в мире, Мировом Гран-При. Этапы этих престижных гонок заведут друзей в Токио, на набережные Парижа, на побережье Италии, и на улицы туманного Лондона.
+</p>]]>
+</description>
+</channel>
+
+
+<channel>
+<title><![CDATA[Тролли]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_689774.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Trolli.2016.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Тролли</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_689774.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2016<br>
+<b>Рейтинг КиноПоиск:</b> 6.6<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, мюзикл, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Отправляясь в увлекательное приключение, которое заведет ее далеко от привычного мира, Розочка объединяет усилия с самым мрачным троллем на свете по имени Цветан, чтобы спасти друзей из лап зловещих бергенов и их лидера, короля Хряща Старшего. Невероятные приключения Розочки проверят её силу, покажут истинную суть и бросят вызов способности ударяться в пение в любой момент.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Труп невесты]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_77548.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Trup.Nevesti.2005.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Труп невесты</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_77548.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2005<br>
+<b>Рейтинг КиноПоиск:</b> 7.8<br>
+<b>Страна:</b> США, Великобритания<br>
+<b>Жанр:</b> мультфильм, мюзикл, фэнтези, драма, мелодрама, семейный<br>
+<p><hr><b>Описание: </b>
+Действие развивается в европейской деревушке XIX века. Главного героя — молодого человека Виктора — силы тьмы утаскивают в преисподнюю и женят там на таинственном Трупе Невесты, в то время как его настоящая невеста Виктория ожидает своего жениха в мире живых. Несмотря на то, что проживание в Царстве мертвых оказывается много интересней, чем его привычный викторианский образ жизни, Виктор понимает, что свою единственную любовь он не променяет ни на что ни в одном из альтернативных миров…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Университет монстров]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_468904.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Universitet.Monstrov.2013.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Университет монстров</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_468904.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2013<br>
+<b>Рейтинг КиноПоиск:</b> 7.6<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный <br>
+<p><hr><b>Описание: </b>
+Майк и Салли — самые опытные пугатели в Монстрополисе, но так было далеко не всегда. Когда они встретились впервые, эти монстры терпеть друг друга не могли. «Университет Монстров» — история о том, как наши старые знакомые прошли путь от взаимной неприязни к крепкой дружбе.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Франкенвини]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_408395.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Frankenweenie.2012.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Франкенвини</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_408395.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2012<br>
+<b>Рейтинг КиноПоиск:</b> 7.1<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, ужасы, фантастика, комедия, семейный<br>
+<p><hr><b>Описание: </b>
+Обожаемый мальчиком Виктором пес Спарки погибает в результате несчастного случая. Мальчик, не желая мириться с потерей друга, призывает науку на помощь и…возвращает питомца к жизни! Казалось бы, все не так уж плохо, но когда Спарки сбегает от Виктора, его друзья, родители, учителя и жители городка узнают, что возвращение к жизни домашнего питомца может повлечь за собой неожиданные и даже ужасные последствия!
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Хороший динозавр]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_596451.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Thehoroshiy-dinozavr-2015.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Хороший динозавр</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_596451.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2015<br>
+<b>Рейтинг КиноПоиск:</b> 7.1<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, драма, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+По сюжету динозавры не вымерли, а эволюционировали в разумных существ и живут и здравствуют на Земле. А вот люди остались на довольно примитивной стадии развития. Фильм расскажет историю дружбы динозавра и маленького мальчика.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Холодное сердце]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_493208.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/Holodnoye.Serdce.2013.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Холодное сердце</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_493208.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2013<br>
+<b>Рейтинг КиноПоиск:</b> 7.8<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, мюзикл, фэнтези, комедия, мелодрама, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Когда древнее предсказание сбывается и королевство погружается в объятия вечной зимы, трое бесстрашных героев — принцесса Анна, отважный Кристофф и его верный олень Свен — отправляются в горы, чтобы найти сестру Анны, Эльзу, которая может снять со страны леденящее заклятие. По пути их ждет множество увлекательных сюрпризов и захватывающих приключений: встреча с мистическими троллями, знакомство с очаровательным снеговиком по имени Олаф, горные вершины покруче Эвереста и магия в каждой снежинке. Анне и Кристоффу предстоит сплотиться и противостоять могучей стихии, чтобы спасти королевство и тех, кто им дорог…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Храбрая сердцем]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_409118.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/hrabraya-serdcem-2012.HDRip.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Храбрая сердцем</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_409118.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2012<br>
+<b>Рейтинг КиноПоиск:</b> 7.5<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Испокон веков мифы и легенды окутывают загадочной пеленой живописные отроги Шотландских гор. Искусной лучнице Мериде приходится выбирать свой путь в жизни самостоятельно, и однажды она отказывается следовать древним традициям королевства, бросая вызов могущественным шотландским кланам и их предводителям: нескладному лорду МакГаффину, угрюмому лорду Макинтошу и сварливому лорду Дингволлу. Неосторожные поступки Мериды грозят повергнуть королевство в хаос, и тогда она отправляется за советом к эксцентричной отшельнице, которая вместо помощи накладывает на Мериду опасное заклятье. Юной принцессе предстоит полагаться только на собственную храбрость, чтобы преодолеть могущественное волшебство и победить самого страшного зверя из тех, что водятся в горных долинах.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Шрек]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_430.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/shrek-2-2004.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Шрек</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_430.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2001<br>
+<b>Рейтинг КиноПоиск:</b> 8.0<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Жил да был в сказочном государстве большой зеленый великан по имени Шрек. Жил он в гордом одиночестве в лесу, на болоте, которое считал своим. Но однажды злобный коротышка — лорд Фаркуад, правитель волшебного королевства, безжалостно согнал на Шреково болото всех сказочных обитателей.
+И беспечной жизни зеленого великана пришел конец. Но лорд Фаркуад пообещал вернуть Шреку болото, если великан добудет ему прекрасную принцессу Фиону, которая томится в неприступной башне, охраняемой огнедышащим драконом…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Шрек 2]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_5273.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-hls.kinoprofi.org/hls/shrek-2-2004.hd.720p/playlist.m3u8]]></stream_url>
+<description><![CDATA[<table>
+<h2>Шрек 2</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_5273.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2004<br>
+<b>Рейтинг КиноПоиск:</b> 7.6<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Шрэк и Фиона возвращаются после медового месяца и находят письмо от родителей Фионы с приглашением на ужин. Однако те не подозревают, что их дочь тоже стала огром! Вместе с Осликом счастливая пара отправляется в путешествие, полное неожиданностей, и попадает в круговорот событий, во время которых приобретает множество друзей…
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Шрэк Третий]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_84020.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-cdn.kinoprofi.org/files/T5rKcXlAdGiJLqhuyZj35w/1479637268/Shrek.Tretiy.2007.HDRip.720p.flv]]></stream_url>
+<description><![CDATA[<table>
+<h2>Шрэк Третий</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_84020.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2007<br>
+<b>Рейтинг КиноПоиск:</b> 6.7<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Королем может быть не каждый — особенно если вы не очень симпатичный великан. Когда Шрэк женился на принцессе Фионе, он меньше всего на свете хотел управлять Далекой-Далекой страной. Такой он невластолюбивый. Однако отец Фионы, король Гарольд, внезапно умирает, и корону должен унаследовать именно Шрэк. Как-никак, он все-таки муж наследницы.
+Однако Шрэк наотрез отказывается от бремени власти, и решает отправиться вместе со своими старыми друзьями Ослом и Котом в сапогах на поиски кандидата на трон. Если Шрэк не найдет себе подходящей замены, ему придется управлять сказочной страной самому… и это надолго. Похоже, что король Артур — тот, кто им нужен. 
+Однако в отсутствие великана его старый враг принц по имени Чарминг замышляет всякие пакости, для чего и возвращается в сказочную страну. Шрэку придется очень постараться, чтобы спасти страну от происков врагов и от возможного переворота.
+</p>]]>
+</description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[Шрэк навсегда]]></title>
+<logo_30x30>https://st.kp.yandex.net/images/film_iphone/iphone360_271806.jpg</logo_30x30>
+<stream_url><![CDATA[http://hd-cdn.kinoprofi.org/files/aZJ6iiBB0_I7cLDNISXJTw/1479637353/shrek-navsegda-2010.hd.720p.flv]]></stream_url>
+<description><![CDATA[<table>
+<h2>Шрэк навсегда</h2>
+<p><img height="235" src="https://st.kp.yandex.net/images/film_iphone/iphone360_271806.jpg" style=" float: left; margin-right: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="160">
+<b>Год:</b> 2010<br>
+<b>Рейтинг КиноПоиск:</b> 7.0<br>
+<b>Страна:</b> США<br>
+<b>Жанр:</b> мультфильм, фэнтези, комедия, приключения, семейный<br>
+<p><hr><b>Описание: </b>
+Чем бы еще заняться огру, который уже сразился со злым драконом, спас прекрасную принцессу и уберег от беды королевство родственников по линии жены? Что ж, если вы Шрэк, то, сами того не заметив, вы вдруг сядете дома и станете наслаждаться покоем в кругу семьи. Вместо того чтобы как раньше пугать деревенских жителей, теперь Шрэк, хоть и с неохотой, но соглашается оставлять автографы на их вилах. А куда же подевался знаменитый рык этого огра? 
+Под грузом воспоминаний о днях, когда он чувствовал себя «настоящим огром», Шрэк поддается на уговоры сладкоголосого Румпельштильцхена и заключает с ним договор. Сразу после этого Шрэк оказывается в альтернативной реальности Тридевятого королевства, где все поставлено с ног на голову: на огров здесь охотятся, Румпельштильцхен восседает на троне, а Шрэк и Фиона даже не знакомы. И теперь только сам Шрэк может исправить все, что он натворил, чтобы спасти друзей, восстановить привычный ему порядок вещей и вернуть себе свою единственную Истинную Любовь.
+</p>]]>
+</description>
+</channel>
+
+
+
 </items>
