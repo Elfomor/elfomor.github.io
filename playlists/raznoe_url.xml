@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
     <playlist_name><![CDATA[raznoe]]></playlist_name>
+            <channel>
+        <title><![CDATA[Двухдневный интенсив по основам программирования]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=LsYTG7YpVSw]]></stream_url>
+    </channel>
         <channel>
         <title><![CDATA[Карьера веб-разработчика с нуля до топ-зарплаты]]></title>
         <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
