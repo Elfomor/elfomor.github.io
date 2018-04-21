@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
     <playlist_name><![CDATA[raznoe]]></playlist_name>
-            <channel>
+         <channel>
+        <title><![CDATA[Работа с текстом в HTML/CSS]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://gb.cdnmail.ru/records/000/008/223/004bcf62c306fdab05fb696c1fa071e6c9ea7b54.mp4]]></stream_url>
+    </channel>
+     <channel>
         <title><![CDATA[Двухдневный интенсив по основам программирования]]></title>
         <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=LsYTG7YpVSw]]></stream_url>
