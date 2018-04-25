@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
     <playlist_name><![CDATA[raznoe]]></playlist_name>
-         <channel>
-        <title><![CDATA[Работа с текстом в HTML/CSS]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
-        <stream_url><![CDATA[https://gb.cdnmail.ru/records/000/008/223/004bcf62c306fdab05fb696c1fa071e6c9ea7b54.mp4]]></stream_url>
-    </channel>
-     <channel>
-        <title><![CDATA[Двухдневный интенсив по основам программирования]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=LsYTG7YpVSw]]></stream_url>
-    </channel>
-        <channel>
-        <title><![CDATA[Карьера веб-разработчика с нуля до топ-зарплаты]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
-        <stream_url><![CDATA[https://d1ywbwqv5var5z.cloudfront.net/records/000/001/827/193511717a987381e4c75f7912b845e07cb02f8d.mp4]]></stream_url>
-    </channel>
     <channel>
         <title><![CDATA[Тесла Рассекреченные архивы 5-я серия]]></title>
         <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
