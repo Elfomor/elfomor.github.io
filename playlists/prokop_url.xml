@@ -1,154 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-    <playlist_name><![CDATA[prokop_url]]></playlist_name>
+    <playlist_name><![CDATA[prog_url]]></playlist_name>
     <channel>
-        <title><![CDATA[Шокирующие гипотезы. 17.02.2018  Марафон.]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=AHQkcMEOEsQ]]></stream_url>
+        <title><![CDATA[Как стать востребованным Web-разработчиком с доходом от 100 000 рублей]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://gb.cdnmail.ru/record/18623/attachment/347a7789a7787d1169423f5dd87f84aa.mp4]]></stream_url>
     </channel>
     <channel>
-        <title><![CDATA[Территория заблуждений. 17.02.2018]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=HPPjZwji_hI]]></stream_url>
+        <title><![CDATA[Работа с текстом в HTML/CSS]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://gb.cdnmail.ru/records/000/008/223/004bcf62c306fdab05fb696c1fa071e6c9ea7b54.mp4]]></stream_url>
     </channel>
     <channel>
-        <title><![CDATA[Военная тайна. 17.02.2018]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=bMVghNXU7LU]]></stream_url>
+        <title><![CDATA[Двухдневный интенсив по основам программирования]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=LsYTG7YpVSw]]></stream_url>
     </channel>
     <channel>
-        <title><![CDATA[Шокирующие гипотезы. 15.02.2018.Кто консультирует Трампа?]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=kMVGJhFI8vY]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Территория заблуждений. 15.02.2018]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=ztAWINAC7g4]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Шокирующие гипотезы. 15.02.2018. Русские дуют!]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=x3mtD-E89K8]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Шокирующие гипотезы. 14.02.2018.Скажи-ка. Валя, ведь недаром!]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=9ojo3nURVZ0]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Космические истории. 14.02.2018. Их похищали инопланетяне]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=fziuopoh034]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Шокирующие гипотезы. 13.02.2018. Что расскажет рыбка?]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=PmG4mRzbaZE]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Шокирующие гипотезы. 13.02.2018. Станция «Вылезай-ка»]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=tRRNKjgyi8s]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Сенсационные материалы. 13.02.2018. На чем сидят звезды?]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=bX_2W0hlHqY]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[12.02.2018. Принцесса Рейха!]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=SBknM0zzaqk]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[Сенсационные материалы. 12.02.2018. Что привезли на Марс?]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=svXmP6W21GQ]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[26.01.2018 Страшное дело]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=VvXxyBJKAME]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[24.01.2018]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=g1Y8zpUZCj0]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[20.01.2018]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=pBDKrKQS9Jg]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[19.01.2018]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=zIAwaI1Rfu4]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[18.01.2018]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=Fjn90Ev_ZHw]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[12.01.2018]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=w7n6JshE9AE]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[30.11.2017. Великие тайны под водой]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=q-gbTCu3Rtw]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[30.11.2017. Приказано уничтожить!]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=7awaM3yT5HA]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[30.11.2017.У природы нет плохой погоды!]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=OVQXKLe6Gf4]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[16.11.2017(1)]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=izwfx3qZXqo]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[16.11.2017(2)]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=Zw7s6Hjf3M8]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[16.11.2017(3)]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=Whf0dgX_VQU]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[29.09.2017. От куда ты?]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=SADPS2b3S3I]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[29.09.2017. Пирамиды]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=mhGnG_nu28M]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[29.09.2017. Космос]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=dBnfwZAy7F4]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[29.09.2017. А что после бомбы?]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=_c620cxlKBk]]></stream_url>
-    </channel>
-    <channel>
-        <title><![CDATA[29.09.2017. Древний человек]]></title>
-        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/pr.jpg]]></logo_30x30>
-        <stream_url><![CDATA[https://www.youtube.com/watch?v=4a98WNYvSpo]]></stream_url>
+        <title><![CDATA[Карьера веб-разработчика с нуля до топ-зарплаты]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://d1ywbwqv5var5z.cloudfront.net/records/000/001/827/193511717a987381e4c75f7912b845e07cb02f8d.mp4]]></stream_url>
     </channel>
 </items>
