@@ -2,8 +2,7 @@
 <items>
     <playlist_name><![CDATA[video_folder]]></playlist_name>
     <channel>
-        <title><![CDATA[Прокопено]]></title>
-        <description><![CDATA[<img src="https://elfomor.github.io/playlists/pic/prokop.png" height='330' width='600'>]]></description>
+        <title><![CDATA[Geekbrains]]></title>
         <playlist_url><![CDATA[https://elfomor.github.io/playlists/prokop_url.xml]]></playlist_url>
     </channel>
     <channel>
