@@ -76,4 +76,9 @@
         <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
         <stream_url><![CDATA[https://www.youtube.com/watch?v=_dgSkdGHNAU]]></stream_url>
     </channel>
+    <channel>
+        <title><![CDATA[СЛАДКИЙ ПЛЕН 2018]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://www.youtube.com/watch?v=e4yDp9Tuv0Y]]></stream_url>
+    </channel>
 </items>
