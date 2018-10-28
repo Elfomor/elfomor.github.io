@@ -2,6 +2,11 @@
 <items>
     <playlist_name><![CDATA[prog_url]]></playlist_name>
     <channel>
+        <title><![CDATA[Как стать Веб-разработчиком с нуля]]></title>
+        <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
+        <stream_url><![CDATA[https://gb.cdnmail.ru/record/27126/attachment/c0a26a6cb3c6f987d4b9d521156b7b69.mp4]]></stream_url>
+    </channel>
+    <channel>
         <title><![CDATA[Как стать востребованным Web-разработчиком с доходом от 100 000 рублей]]></title>
         <logo_30x30><![CDATA[https://elfomor.github.io/playlists/pic/clip.png]]></logo_30x30>
         <stream_url><![CDATA[https://gb.cdnmail.ru/record/18623/attachment/347a7789a7787d1169423f5dd87f84aa.mp4]]></stream_url>
