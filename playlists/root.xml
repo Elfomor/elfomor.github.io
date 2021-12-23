@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-    <playlist_name><![CDATA[start_page]]></playlist_name>
     <channel>
         <title><![CDATA[TV каналы]]></title>
         <description><![CDATA[<img src="http://60500.ru/upload/iblock/4f6/4f6bc1bd4e7babd4f70620f45e8a2590.jpg" height='400' width='600'>]]></description>
-        <playlist_url><![CDATA[https://elfomor.github.io/playlists/iptv.m3u]]></playlist_url>
+        <stream_url><![CDATA[https://elfomor.github.io/playlists/iptv.m3u]]></stream_url>
     </channel>
     <channel>
         <title><![CDATA[Детям]]></title>
         <description><![CDATA[<img src="http://www.playcast.ru/uploads/work/257422.jpg" height='230' width='345'>]]></description>
-        <playlist_url><![CDATA[https://elfomor.github.io/playlists/detsk_folder.xml]]></playlist_url>
+        <stream_url><![CDATA[https://elfomor.github.io/playlists/detsk_folder.xml]]></stream_url>
     </channel>
     <channel>
         <title><![CDATA[Видео]]></title>
-        <playlist_url><![CDATA[https://elfomor.github.io/playlists/video_folder.xml]]></playlist_url>
+        <stream_url><![CDATA[https://elfomor.github.io/playlists/video_folder.xml]]></stream_url>
     </channel>
 </items>
